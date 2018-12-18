@@ -1,9 +1,9 @@
 # NRK TV visual identity prototype
 
-Setup without a front-end framework but Webpack to support writing modern JavaScript (ES6+), including ES Modules and Sass.
+Using fast-average-color to calculate average color from image when detected by intersection observer
+
+Live at https://nrktv-average.netlify.com/
 
 `yarn`
 
 `yarn dev`
-
-https://blog.bitsrc.io/build-a-website-with-modern-tooling-and-no-frameworks-a33e65099f9
